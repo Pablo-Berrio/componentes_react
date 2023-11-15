@@ -1,0 +1,21 @@
+CRUD
+Front -> React
+Back -> firebase
+
+PROPS y enrutamiento de componentes
+
+PROPS -> Información dinámica que se pasa de un componente padre a un hijo
+    Por medio de las propos yo no puedo pasar información de un componente hijo a un componente padre
+
+Enrutamiento -> La navegación entre componentes
+
+helpers -> controller -> funciones o componentes generales (footer, header, 404, cards, numeros random, )
+config -> model -> manejo de datos o base de datos
+layouts -> views -> componentes graficos de rederizacion
+
+
+Hooks
+    useState
+    useEffect
+
+los eventos solo funcionan en elementos, no en componentes
